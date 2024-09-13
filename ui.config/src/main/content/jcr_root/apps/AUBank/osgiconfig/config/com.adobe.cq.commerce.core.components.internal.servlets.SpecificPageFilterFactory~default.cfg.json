@@ -1,0 +1,3 @@
+{
+  "sling.filter.pattern": "/content/AUBank/.*?/(category-page|product-page)"
+}

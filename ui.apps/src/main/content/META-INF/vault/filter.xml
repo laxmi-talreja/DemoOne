@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/AUBank/clientlibs"/>
+    <filter root="/apps/AUBank/components"/>
+    <filter root="/apps/AUBank/i18n"/>
+</workspaceFilter>
